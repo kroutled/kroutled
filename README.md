@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kroutled/kroutled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,10 +34,10 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>My Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c#,linux,python,html,css,js&perline=14" />
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js&perline=14" />
 </p>
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,vscode" />
 </p>

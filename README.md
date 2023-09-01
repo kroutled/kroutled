@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align=center>Hi, I'm Kyle</h1>
+<h3 align=center>14yo  ☁️: Cloud Developer</h3>
+
+
+<h2 align=center>About me</h2>
+As a full stack software developer, I am driven to excel in challenging environments. I thrive on continuous learning and welcome opportunities to contribute my knowledge and skills to various industries. 
+
+My dedication to personal growth and commitment to fostering collaborative environments allows me to consistently deliver innovative solutions that benefit both the organization and its stakeholders.
+
+<p align="center">
+  <a href="https://github.com/anantnrg/">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anantnrg&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
+  </a>
+  <a href="https://github.com/anantnrg/">
+    <img src="https://streak-stats.demolab.com?user=anantnrg&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
+  </a>
+</p>
+
+<h2 align=center>My Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c#,linux,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tauri,blender,figma&perline=14" />
+</p>
+
+<h2 align=center>What I Use</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
+</p>

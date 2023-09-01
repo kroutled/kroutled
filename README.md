@@ -24,10 +24,10 @@ As a full stack software developer, I am driven to excel in challenging environm
 My dedication to personal growth and commitment to fostering collaborative environments allows me to consistently deliver innovative solutions that benefit both the organization and its stakeholders.
 
 <p align="center">
-  <a href="https://github.com/anantnrg/">
+  <a href="https://github.com/kroutled/">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kroutled&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
   </a>
-  <a href="https://github.com/anantnrg/">
+  <a href="https://github.com/kroutled/">
     <img src="https://streak-stats.demolab.com?user=kroutled&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
   </a>
 </p>
@@ -39,5 +39,5 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,postman,firebase,git,github,vscode,visualstudio" />
 </p>

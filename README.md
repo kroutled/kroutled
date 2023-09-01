@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align=center>Hi, I'm Kyle</h1>
-<h3 align=center>14yo  ☁️: Cloud Developer</h3>
+<h3 align=center>☁️: Cloud Developer</h3>
 
 
 <h2 align=center>About me</h2>
@@ -36,11 +36,10 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>My Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c#,linux,python,html,css" />
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tauri,blender,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c#,linux,python,html,css,js&perline=14" />
 </p>
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
 </p>

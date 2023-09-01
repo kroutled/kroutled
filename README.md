@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align=center>Hi, I'm Kyle</h1>
+<h1 align=center>Hi there, I'm Kyle 👋</h1>
 <h3 align=center>☁️: Cloud Developer</h3>
 
 
 <h2 align=center>About me</h2>
 As a full stack software developer, I am driven to excel in challenging environments. I thrive on continuous learning and welcome opportunities to contribute my knowledge and skills to various industries. 
-
+<br/>
 My dedication to personal growth and commitment to fostering collaborative environments allows me to consistently deliver innovative solutions that benefit both the organization and its stakeholders.
 
 <p align="center">

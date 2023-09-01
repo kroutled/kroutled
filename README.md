@@ -27,10 +27,10 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anantnrg&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kroutled&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
   </a>
   <a href="https://github.com/anantnrg/">
-    <img src="https://streak-stats.demolab.com?user=anantnrg&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=kroutled&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
   </a>
 </p>
 

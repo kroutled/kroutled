@@ -35,7 +35,7 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>My Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js&perline=14" />
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,golang&perline=14" />
 </p>
 
 <h2 align=center>What I Use</h2>

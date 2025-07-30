@@ -28,9 +28,6 @@ My dedication to personal growth and commitment to fostering collaborative envir
   <a href="https://github.com/kroutled/">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kroutled&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
   </a>
-  <a href="https://github.com/kroutled/">
-    <img src="https://streak-stats.demolab.com?user=kroutled&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
-  </a>
 </p>
 
 <h2 align=center>My Skills</h2>
@@ -40,5 +37,5 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,postman,firebase,git,github,neovim,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,postman,firebase,git,github,neovim,vscode,visualstudio" />
 </p>

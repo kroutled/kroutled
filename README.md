@@ -40,5 +40,5 @@ My dedication to personal growth and commitment to fostering collaborative envir
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,postman,firebase,git,github,nvim,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=azure,postman,firebase,git,github,neovim,vscode,visualstudio" />
 </p>
